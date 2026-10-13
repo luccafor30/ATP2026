@@ -9,4 +9,4 @@
   Quanto à segunda parte, em que o utilizador começa a jogar, o desenvolvimento revelou-se mais desafiante por dois motivos principais. O primeiro foi a necessidade de programar as contas com o resto da divisão por 11, para que o computador jogasse um valor aleatório caso o jogador seguisse a estratégia certa, mas conseguisse calcular exatamente quanto faltava para o próximo número-chave assim que o jogador cometesse uma falha. O segundo desafio foi agrupar e alinhar corretamente toda a lógica e as validações, usando ciclos while e uma lista de opções válidas de 1 a 10, além de impedir que a soma ultrapasse 100, dentro do ciclo principal. Apesar dessas dificuldades com a matemática e com a indentação dos blocos, foi possível conjugar as estruturas cíclicas e condicionais dadas em aula para que o jogo funcionasse de forma fluida nas duas vertentes.
 
 * **Lista de resultados:**
-  * [Código](codigo2.ipynb)
+  * [Código](codigoTPC3.ipynb)

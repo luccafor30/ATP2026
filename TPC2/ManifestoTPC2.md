@@ -10,4 +10,4 @@
   
 
 * **Lista de resultados:**
-  * [Código](codigo.ipynb)
+  * [Código](codigoTPC2.ipynb)
